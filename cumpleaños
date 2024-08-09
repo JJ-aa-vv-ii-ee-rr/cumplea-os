@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es"> 
+ <head> 
+ <meta charset="UTF-8">
+ <meta name="viewport"
+  content="width=device-width, 
+  initial-scale=1.0"> 
+  <title>Invitación de Cumpleaños</title> 
+  <style>
+   body {
+ font-family: Arial, sans-serif;
+  text-align: center;
+   background-color: #f4f4f4; 
+   color: #333;
+    } .container { background-color: #fff; 
+    border-radius: 8px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      margin: 50px auto; padding: 20px; max-width: 600px; 
+      } h1 { color: #007BFF; 
+      } p { font-size: 16px; line-height: 1.5;
+       } .address { font-weight: bold;
+        color: #555; } .button { display: inline-block;
+         padding: 10px 20px; font-size: 16px;
+          color: #fff; 
+          background-color: #007BFF;
+           text-decoration: none;
+            border-radius: 5px;
+             margin-top: 20px;
+             } .button:hover { background-color: #0056b3;
+              } </style> </head> <body> <div class="container">
+                 <h1>¡Estás Invitado!</h1> 
+                 <p>Querido amigo/a,</p>
+                  <p>Nos encantaría que nos acompañaras a celebrar el cumpleaños de Aneline.</p>
+                   <p><strong>Fecha:</strong> [Fecha del Evento]</p> 
+                   <p><strong>Hora:</strong> [Hora del Evento]</p> 
+                   <p><strong>Dirección:</strong> <span class="address">[Dirección del Evento]</span></p>
+                    <p>Por favor, confirma tu asistencia respondiendo a este mensaje con "Asistiré".</p>
+                     <p>Te esperamos con ansias. Que Jesús te cuide y proteja.</p> 
+                     <a href="mailto:[Tu Correo Electrónico]" class="button">Confirmar Asistencia</a> 
+                    </div> </body> </html>
